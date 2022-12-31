@@ -1,5 +1,5 @@
 var i = 0;
-var txt = "Beauty perishes in life, but is immortal in art.";
+var txt = "CEO at Studio Zard";
 var speed = 50;
 
 function typeWriter() {
