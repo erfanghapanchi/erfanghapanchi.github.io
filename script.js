@@ -1,5 +1,5 @@
 var i = 0;
-var txt = "CEO at Studio Zard";
+var txt = "CEO @ Yellow Studio";
 var speed = 50;
 
 function typeWriter() {

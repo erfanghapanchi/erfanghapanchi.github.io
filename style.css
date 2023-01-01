@@ -1,6 +1,7 @@
 body {
     font-family: 'Martel', serif;
     margin: 0;
+    background-color: 	#FFDB58;
 }
 
 .center-content {
@@ -10,6 +11,7 @@ body {
     transform: translateY(-50%);
     text-align: center;
     z-index: 1;
+    color: black;
 }
 
 .center-content h1 {
@@ -76,6 +78,6 @@ body {
 
 @media only screen and (max-width: 460px) {
     .center-content h1 {
-        font-size: 30px;        
+        font-size: 30px;
     }
 }
